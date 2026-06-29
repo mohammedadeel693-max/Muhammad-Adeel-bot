@@ -1,4 +1,0 @@
-pyTelegramBotAPI==4.21.0
-requests==2.32.3
-phonenumbers==8.13.44
-pyotp==2.9.0
